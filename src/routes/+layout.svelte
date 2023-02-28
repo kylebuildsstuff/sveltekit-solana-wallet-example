@@ -1,6 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	import { WalletProvider, ConnectionProvider } from '@svelte-on-solana/wallet-adapter-ui';
+	import { walletStore as walletStore$ } from '@svelte-on-solana/wallet-adapter-core';
 	import { clusterApiUrl } from '@solana/web3.js';
 
 	import '../app.css';
@@ -17,6 +18,10 @@
 
 		wallets = [new PhantomWalletAdapter()];
 	});
+
+	$: {
+		console.log('$walletStore$: ', $walletStore$);
+	}
 </script>
 
 <WalletProvider {localStorageKey} {wallets} autoConnect />
