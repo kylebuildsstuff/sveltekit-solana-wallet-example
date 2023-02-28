@@ -29,7 +29,7 @@
 	<div class="px-6 pt-6 lg:px-8">
 		<nav class="flex items-center justify-between" aria-label="Global">
 			<div class="flex lg:flex-1">
-				<a href="#" class="-m-1.5 p-1.5">
+				<a href="https://google.com" class="-m-1.5 p-1.5">
 					<span class="sr-only">Your Company</span>
 					<img
 						class="h-8"
@@ -61,16 +61,24 @@
 				</button>
 			</div>
 			<div class="hidden lg:flex lg:gap-x-12">
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Product</a>
+				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
+					>Product</a
+				>
 
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Features</a>
+				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
+					>Features</a
+				>
 
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Marketplace</a>
+				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
+					>Marketplace</a
+				>
 
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Company</a>
+				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
+					>Company</a
+				>
 			</div>
 			<div class="hidden lg:flex lg:flex-1 lg:justify-end">
-				<a href="#" class="text-sm font-semibold leading-6 text-gray-900"
+				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
 					>Log in <span aria-hidden="true">&rarr;</span></a
 				>
 			</div>
@@ -79,7 +87,7 @@
 		<div role="dialog" aria-modal="true">
 			<div class="fixed inset-0 z-10 overflow-y-auto bg-white px-6 py-6 lg:hidden">
 				<div class="flex items-center justify-between">
-					<a href="#" class="-m-1.5 p-1.5">
+					<a href="https://google.com" class="-m-1.5 p-1.5">
 						<span class="sr-only">Your Company</span>
 						<img
 							class="h-8"
@@ -105,32 +113,32 @@
 					<div class="-my-6 divide-y divide-gray-500/10">
 						<div class="space-y-2 py-6">
 							<a
-								href="#"
+								href="https://google.com"
 								class="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
 								>Product</a
 							>
 
 							<a
-								href="#"
+								href="https://google.com"
 								class="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
 								>Features</a
 							>
 
 							<a
-								href="#"
+								href="https://google.com"
 								class="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
 								>Marketplace</a
 							>
 
 							<a
-								href="#"
+								href="https://google.com"
 								class="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
 								>Company</a
 							>
 						</div>
 						<div class="py-6">
 							<a
-								href="#"
+								href="https://google.com"
 								class="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-gray-900 hover:bg-gray-400/10"
 								>Log in</a
 							>
@@ -147,7 +155,9 @@
 					<div
 						class="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
 					>
-						Announcing our next round of funding. <a href="#" class="font-semibold text-indigo-600"
+						Announcing our next round of funding. <a
+							href="https://google.com"
+							class="font-semibold text-indigo-600"
 							><span class="absolute inset-0" aria-hidden="true" />Read more
 							<span aria-hidden="true">&rarr;</span></a
 						>
@@ -163,11 +173,11 @@
 					</p>
 					<div class="mt-10 flex items-center justify-center gap-x-6">
 						<a
-							href="#"
+							href="https://google.com"
 							class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Get started</a
 						>
-						<a href="#" class="text-sm font-semibold leading-6 text-gray-900"
+						<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
 							>Learn more <span aria-hidden="true">→</span></a
 						>
 					</div>
