@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { WalletMultiButton } from '@svelte-on-solana/wallet-adapter-ui';
+</script>
+
 <div class="isolate bg-white">
 	<div
 		class="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]"
@@ -78,9 +82,7 @@
 				>
 			</div>
 			<div class="hidden lg:flex lg:flex-1 lg:justify-end">
-				<a href="https://google.com" class="text-sm font-semibold leading-6 text-gray-900"
-					>Log in <span aria-hidden="true">&rarr;</span></a
-				>
+				<WalletMultiButton />
 			</div>
 		</nav>
 		<!-- Mobile menu, show/hide based on menu open state. -->
